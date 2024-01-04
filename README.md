@@ -1,23 +1,14 @@
-<img src="https://komarev.com/ghpvc/?username=abdallabersan&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-<div style="display: block; width: 100%; overflow: hidden;">
-  <div style="width: 50%; float: left;">
-    <!-- Ici, placez votre image ou contenu qui doit aller à gauche -->
-    <img align="left" alt="Coding" width="400" src="https://cdn.dribbble.com/users/330915/screenshots/3587000/10_coding_dribbble.gif">
-  </div>
-  <div style="width: 50%; float: right;">
-    <!-- Ici, placez votre contenu texte qui doit aller à droite -->
-    <h1>Hi 👋, I'm Abdalla Bersanukaev</h1>
-    <h3>Développeur fullstack passionné, je m'épanouis dans la création d'expériences web et mobiles innovantes.</h3>
-  </div>
-</div>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=abdallabersan&label=Profile%20views&color=0e75b6&style=flat" alt="abdallabersan" /> </p>
+<p> </p><img align="left" alt="Coding" width="400" src="https://cdn.dribbble.com/users/330915/screenshots/3587000/10_coding_dribbble.gif">
+<h1 align="center">Hi 👋, I'm Abdalla Bersanukaev</h1>
+<h3 align="center">Développeur fullstack passionné, je m'épanouis dans la création d'expériences web et mobiles innovantes.</h3>  
+</p>
 
-<div style="display: block;">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/abdalla-bersanukaev/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/abdalla-bersanukaev/" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/14914170/adev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/14914170/adev" height="30" width="40" /></a>
 </p>
-</div>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
