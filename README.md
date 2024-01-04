@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdallabersan&label=Profile%20views&color=0e75b6&style=flat" alt="abdallabersan" /> </p>
 
-[//]: # <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abdallabersan" alt="abdallabersan" /></a> </p>
+<!--- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abdallabersan" alt="abdallabersan" /></a> </p>
 
-[//]: # - 💬 Ask me about **flutter, symfony, nodejs**
+- 💬 Ask me about **flutter, symfony, nodejs** -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
