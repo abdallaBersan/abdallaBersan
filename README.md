@@ -1,5 +1,5 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdallabersan&label=Profile%20views&color=0e75b6&style=flat" alt="abdallabersan" /> </p>
-<p align="center"> <img align="left" alt="Coding" width="300" src="https://cdn.dribbble.com/users/330915/screenshots/3587000/10_coding_dribbble.gif"> </p>
+<p align="center"> <img align="center" alt="Coding" width="300" src="https://cdn.dribbble.com/users/330915/screenshots/3587000/10_coding_dribbble.gif"> </p>
 <h1 align="center">Hi 👋, I'm Abdalla Bersanukaev</h1>
 <h3 align="center">Développeur fullstack passionné, je m'épanouis dans la création d'expériences web et mobiles innovantes.</h3>  
 
