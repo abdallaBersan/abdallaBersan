@@ -1,18 +1,14 @@
+<img src="https://komarev.com/ghpvc/?username=abdallabersan&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 <div style="display: block; width: 100%; overflow: hidden;">
   <div style="width: 50%; float: left;">
     <!-- Ici, placez votre image ou contenu qui doit aller à gauche -->
-    <img src="https://komarev.com/ghpvc/?username=abdallabersan&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+    <img align="left" alt="Coding" width="400" src="https://cdn.dribbble.com/users/330915/screenshots/3587000/10_coding_dribbble.gif">
   </div>
   <div style="width: 50%; float: right;">
     <!-- Ici, placez votre contenu texte qui doit aller à droite -->
     <h1>Hi 👋, I'm Abdalla Bersanukaev</h1>
     <h3>Développeur fullstack passionné, je m'épanouis dans la création d'expériences web et mobiles innovantes.</h3>
   </div>
-</div>
-
-<div style="display: block;">
-  <h3>Connect with me:</h3>
-  <!-- Autres contenus de connexion ici -->
 </div>
 
 <div style="display: block;">
