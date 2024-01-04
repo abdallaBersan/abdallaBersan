@@ -40,10 +40,10 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/https://www.buymeacoffee.com/abdallabers"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/abdallabers" /></a><a href="https://ko-fi.com/https://ko-fi.com/abdallabers"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="https://ko-fi.com/abdallabers" /></a></p><br>
 
-<br><br><br><br>
+<br><br>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdallabersan&show_icons=true&locale=en&layout=compact" alt="abdallabersan" /></p>
-<br>
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abdallabersan&show_icons=true&locale=en" alt="abdallabersan" /></p>
-<br>
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abdallabersan&" alt="abdallabersan" /></p>
