@@ -3,9 +3,7 @@
 <h1 align="center">Hi 👋, I'm Abdalla Bersanukaev</h1>
 <h3 align="center">Développeur fullstack passionné, je m'épanouis dans la création d'expériences web et mobiles innovantes.</h3>  
 
-<!--- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abdallabersan" alt="abdallabersan" /></a> </p>
-
-- 💬 Ask me about **flutter, symfony, nodejs** -->
+<br style="clear: both;"> 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
