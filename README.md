@@ -1,7 +1,8 @@
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/330915/screenshots/3587000/10_coding_dribbble.gif">
+<img align="left" alt="Coding" width="400" src="https://cdn.dribbble.com/users/330915/screenshots/3587000/10_coding_dribbble.gif">
 <h1 align="center">Hi 👋, I'm Abdalla Bersanukaev</h1>
 <h3 align="center">Développeur fullstack passionné, je m'épanouis dans la création d'expériences web et mobiles innovantes.</h3>
 
+<br><br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdallabersan&label=Profile%20views&color=0e75b6&style=flat" alt="abdallabersan" /> </p>
 
 <!--- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abdallabersan" alt="abdallabersan" /></a> </p>
